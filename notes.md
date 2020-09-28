@@ -43,5 +43,6 @@ Aasa will deliver some data + code on [tractography](https://www.wikiwand.com/en
 Quote of the meeting:
 
 > Hvis I havde været sikre, så havde I taget fejl
+> 
 > - Aasa Feragen
 

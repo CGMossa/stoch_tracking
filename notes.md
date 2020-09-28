@@ -1,3 +1,9 @@
+---
+title: All the notes
+author: Mossa Merhi Reimert
+header-includes: |
+  \usepackage{fullpage}
+---
 
 ## Project course description
 
@@ -16,7 +22,7 @@ The course will be held in conjunction with a research stay.
 
 ## TODO
 
-- [ ] Read and implement the stuff written in [Probabilistic numerics and 
+- [ ] Read and implement the stuff written in [Probabilistic numerics and
     uncertainty in computations](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2015.0142).
 - [ ] Deliver first draft of the course to Aasa Feragen ASAP.
 - [ ] Get the phd school at DTU to approve of the course
@@ -43,6 +49,5 @@ Aasa will deliver some data + code on [tractography](https://www.wikiwand.com/en
 Quote of the meeting:
 
 > Hvis I havde været sikre, så havde I taget fejl
-> 
+>
 > - Aasa Feragen
-
